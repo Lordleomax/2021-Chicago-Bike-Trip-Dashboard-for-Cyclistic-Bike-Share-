@@ -1,6 +1,8 @@
 # 2021-Chicago-Bike-Trip-Dashboard-for-Cyclistic-Bike-Share-
 ![2021 Chicago Bike Trip Dashboard for Cyclistic Bike Share](https://github.com/Lordleomax/2021-Chicago-Bike-Trip-Dashboard-for-Cyclistic-Bike-Share-/assets/131598329/406f9e94-5fff-4d1e-9aaf-ebabb359f97f)
 
+Download the Power BI Viz [Here](https://drive.google.com/file/d/11oYFrNkNvO7ZbgAIMzN-kZkPC9VhO370/view?usp=drive_link) It is too large to be uploaded here
+
 ## Business task:
 To identify how annual members and casual riders use Cyclistic bikes differently.
 
